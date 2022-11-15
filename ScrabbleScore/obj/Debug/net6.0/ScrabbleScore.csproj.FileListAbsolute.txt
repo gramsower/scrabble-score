@@ -1,0 +1,15 @@
+C:\Users\gregr\Desktop\Epicodus\C#\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net6.0\ScrabbleScore.csproj.AssemblyReference.cache
+C:\Users\gregr\Desktop\Epicodus\C#\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net6.0\ScrabbleScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gregr\Desktop\Epicodus\C#\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net6.0\ScrabbleScore.AssemblyInfoInputs.cache
+C:\Users\gregr\Desktop\Epicodus\C#\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net6.0\ScrabbleScore.AssemblyInfo.cs
+C:\Users\gregr\Desktop\Epicodus\C#\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net6.0\ScrabbleScore.csproj.CoreCompileInputs.cache
+C:\Users\gregr\Desktop\Epicodus\C#\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net6.0\ScrabbleScore.deps.json
+C:\Users\gregr\Desktop\Epicodus\C#\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net6.0\ScrabbleScore.dll
+C:\Users\gregr\Desktop\Epicodus\C#\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net6.0\ScrabbleScore.pdb
+C:\Users\gregr\Desktop\Epicodus\C#\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net6.0\ScrabbleScore.dll
+C:\Users\gregr\Desktop\Epicodus\C#\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net6.0\refint\ScrabbleScore.dll
+C:\Users\gregr\Desktop\Epicodus\C#\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net6.0\ScrabbleScore.pdb
+C:\Users\gregr\Desktop\Epicodus\C#\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net6.0\ref\ScrabbleScore.dll
+C:\Users\gregr\Desktop\Epicodus\C#\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net6.0\ScrabbleScore.exe
+C:\Users\gregr\Desktop\Epicodus\C#\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\net6.0\ScrabbleScore.runtimeconfig.json
+C:\Users\gregr\Desktop\Epicodus\C#\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\net6.0\ScrabbleScore.genruntimeconfig.cache
