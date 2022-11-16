@@ -14,7 +14,6 @@ namespace LetterScore
       char[] letterList = uppercaseWord.ToCharArray();
       LetterValue scoreDictionary = new LetterValue(); 
       int score = 0;
-      // int letterPoints = 0;
       for (int i=0; i<userWord.Length; i++)
       {
         
