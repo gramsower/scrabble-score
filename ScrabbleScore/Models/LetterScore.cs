@@ -1,15 +1,17 @@
 using System;
 using System.Collections.Generic;
+using LetterScore;
 
 namespace LetterScore.Models
 {
 public class LetterValue
 {
-  public static int FindPoints(string character)
+  public static int FindPoints(char character)
   {
-    if (LetterValue.letterPoints.ContainsKey(character))
+    string userChar = character.ToString();
+    if (LetterValue.letterPoints.ContainsKey(userChar))
     {
-      int pointsForLetter = LetterValue.letterPoints[character];
+      int pointsForLetter = LetterValue.letterPoints[userChar];
       return pointsForLetter;
     }
     else 
